@@ -4,6 +4,12 @@ Date:		10/4/2010
 email:		timcunningham71@gmail.com
 homepage:	CFMumbojumbo.com
 
+Coldcaption, is a ColdFusion utility class to talk to the myCaption API.  It is a speech to text service. You send it a file and it will convert it to text for you (like google voice does).
+
+Purpose: I hate listening to voicemails.  I am a page scanner, I want to see the whole message and pick out the meaning before I read the whole thing. You can't do that with voicemail, you have to wait for them to get to the point.
+
+What this code demos: send a wav file to mycaption and receiving back the transcribed message.
+
 -->
 
 Steps to get a simple MyCaption example working.
