@@ -18,5 +18,5 @@ Steps to get a simple MyCaption example working.
 
 5.This will give you a Message_ID. Wait a minute or two and get the response by using the message_ID in the receiveExample.cfm code: ( http://github.com/timcunningham/Coldcaption/blob/master//receiveExample.cfc )
 
-Your transcribed messag will be in the MESSAGETEXT section of the returned structure.
+Your transcribed message will be in the MESSAGETEXT section of the returned structure.
 
