@@ -6,8 +6,6 @@
 
 <cfdump var="#send#">
 
-<cfoutput>Send MessageID to the get response method: #send.message_ID#</cfoutput>
+<cfoutput>Send MessageID to the getresponse method: #send.message_ID#</cfoutput>
 
-<cfset myCap = createObject("component", "mycaptionAPI")>
-<cfset response = mycap.getResponse(messageID="364663", username="cunningham@idminc.com", password="silverdog")>
-<cfdump var="#response#">
+
